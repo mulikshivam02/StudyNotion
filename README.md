@@ -25,7 +25,7 @@ Full Stack EdTech platform using MERN stack
 [![Razorpay](https://img.shields.io/badge/Razorpay-Payments-02042B?style=for-the-badge&logo=razorpay)](https://razorpay.com/)
 
 </div>
-<img src="./Images/homepage.png" alt="StudyNotion Banner" width="100%"/>
+<img src="./public/homepage.png" alt="StudyNotion Banner" width="100%"/>
 
 ---
 
@@ -154,7 +154,7 @@ This project demonstrates a complete production-grade MERN stack architecture �
 ## 🏗️ System Architecture
 
 <div align="center">
-  <img src="./Images/architecture.png" alt="System Architecture Diagram" width="80%"/>
+  <img src="./public/architecture.png" alt="System Architecture Diagram" width="80%"/>
   <p><em>Three-tier architecture: React frontend communicates with the Express/Node.js backend via RESTful APIs, and the backend persists data to MongoDB Atlas.</em></p>
 </div>
 
@@ -169,7 +169,7 @@ The application follows a clean three-tier separation:
 ## 🗄️ Database Schema
 
 <div align="center">
-  <img src="./Images/schema.jpg" alt="MongoDB Schema / ERD Diagram" width="90%"/>
+  <img src="./public/schema.jpg" alt="MongoDB Schema / ERD Diagram" width="90%"/>
   <p><em>Entity-relationship diagram showing all MongoDB collections and their references.</em></p>
 </div>
 
